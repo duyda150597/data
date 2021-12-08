@@ -91,5 +91,42 @@
             "manager": 2,
             "categorys": []
         } 
+    ],
+    "department": [
+        {
+            "id": 1,
+            "name": "DepartHN",
+            "complete_name": "",
+            "active": true,
+            "parent": null
+        },
+        {
+            "id": 2,
+            "name": "DepartHCM",
+            "complete_name": "",
+            "active": true,
+            "parent": null
+        },
+        {
+            "id": 3,
+            "name": "S1",
+            "complete_name": "",
+            "active": true,
+            "parent": 1
+        },
+        {
+            "id": 4,
+            "name": "S2",
+            "complete_name": "",
+            "active": true,
+            "parent": 1
+        },
+        {
+            "id": 5,
+            "name": "S3",
+            "complete_name": "",
+            "active": true,
+            "parent": 2
+        }
     ]
 }
