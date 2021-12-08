@@ -1,0 +1,95 @@
+{
+    "employee": [
+        {
+            "id": 1,
+            "name": "Devland Scawen",
+            "action": true,
+            "email": "kmcmurraya2@infoseek.co.jp",
+            "gander": "male",
+            "birth_day": "1996-07-11",
+            "marital": "married",
+            "Departure Date": "2021-11-24T07:55:33.822725Z",
+            "Employee Type": "employee",
+            "department": 3,
+            "manager": 2,
+            "categorys": [
+                1
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Duy Do",
+            "action": true,
+            "email": "anhduycnttx1@gmail.com",
+            "gander": "male",
+            "birth_day": "1997-02-14",
+            "marital": "single",
+            "Departure Date": "2021-11-24T07:55:28.365635Z",
+            "Employee Type": "employee",
+            "department": 1,
+            "manager": null,
+            "categorys": []
+        },
+        {
+            "id": 3,
+            "name": "Axe Cuddon",
+            "action": true,
+            "email": "acuddon3@dailymail.co.uk",
+            "gander": "female",
+            "birth_day": "1999-01-09",
+            "marital": "single",
+            "Departure Date": "2021-11-24T07:57:45.823703Z",
+            "Employee Type": "employee",
+            "department": 3,
+            "manager": 2,
+            "categorys": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Jamill Crosio",
+            "action": true,
+            "email": "jcrosio5@apache.org",
+            "gander": "male",
+            "birth_day": "1999-02-14",
+            "marital": "single",
+            "Departure Date": "2021-11-24T07:56:38.100932Z",
+            "Employee Type": "employee",
+            "department": 4,
+            "manager": 2,
+            "categorys": [
+                1
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Dmitri Campany",
+            "action": true,
+            "email": "dcampany9@nsw.gov.au",
+            "gander": "female",
+            "birth_day": "1991-05-28",
+            "marital": "married",
+            "Departure Date": "2021-11-24T07:57:12.592204Z",
+            "Employee Type": "employee",
+            "department": 5,
+            "manager": 2,
+            "categorys": []
+        },
+        {
+            "id": 6,
+            "name": "Dmitri Arenla",
+            "action": true,
+            "email": "Arenla@nsw.gov.au",
+            "gander": "female",
+            "birth_day": "1991-05-28",
+            "marital": "married",
+            "Departure Date": "2021-12-08T09:09:30.076886Z",
+            "Employee Type": "employee",
+            "department": 5,
+            "manager": 2,
+            "categorys": []
+        } 
+    ]
+}
