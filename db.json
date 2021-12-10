@@ -9,12 +9,14 @@
             "birth_day": "1996-07-11",
             "marital": "married",
             "Departure Date": "2021-11-24T07:55:33.822725Z",
-            "Employee Type": "employee",
-            "department": 3,
-            "manager": 2,
+            "employee_type": "Employee",
+            "department": "Phòng kinh doanh",
+            "manager": "Duy Do",
+            "avatar": "https://t3.ftcdn.net/jpg/02/22/85/16/360_F_222851624_jfoMGbJxwRi5AWGdPgXKSABMnzCQo9RN.jpg",
             "categorys": [
                 1
             ]
+           
         },
         {
             "id": 2,
@@ -25,9 +27,10 @@
             "birth_day": "1997-02-14",
             "marital": "single",
             "Departure Date": "2021-11-24T07:55:28.365635Z",
-            "Employee Type": "employee",
-            "department": 1,
+            "employee_type": "Employee",
+            "department": "Phòng Dev",
             "manager": null,
+            "avatar": "https://www.facebook.com/photo/?fbid=1682898231879618&set=a.101132813389509",
             "categorys": []
         },
         {
@@ -39,9 +42,10 @@
             "birth_day": "1999-01-09",
             "marital": "single",
             "Departure Date": "2021-11-24T07:57:45.823703Z",
-            "Employee Type": "employee",
-            "department": 3,
-            "manager": 2,
+            "employee_type": "Employee",
+            "department": "Phòng Dev",
+            "manager": "Duy Do",
+            "avatar": "https://images.squarespace-cdn.com/content/v1/530a77dee4b035db71736c02/1570812709805-UW9CYAKYVXKSTO845HHI/Connecticut+headshots+-+lawyer+headshot+-+Seshu+Badrinath.jpg?format=1000w",
             "categorys": [
                 1,
                 2
@@ -56,9 +60,10 @@
             "birth_day": "1999-02-14",
             "marital": "single",
             "Departure Date": "2021-11-24T07:56:38.100932Z",
-            "Employee Type": "employee",
-            "department": 4,
-            "manager": 2,
+            "employee_type": "Employee",
+            "department": "Phòng kế toán",
+            "manager": "Duy Do",
+            "avatar": "https://images.squarespace-cdn.com/content/v1/5b5903c09d5abb3452315217/1567170575713-X92JKUWOG4XQADOJS9VA/P1010258_pp.jpg",
             "categorys": [
                 1
             ]
@@ -72,9 +77,10 @@
             "birth_day": "1991-05-28",
             "marital": "married",
             "Departure Date": "2021-11-24T07:57:12.592204Z",
-            "Employee Type": "employee",
-            "department": 5,
-            "manager": 2,
+            "employee_type": "Training",
+            "department": "Phòng kinh doanh",
+            "manager": "Devland Scawen",
+            "avatar": "https://www.lifeandportraits.com/wp-content/uploads/elementor/thumbs/NancyNeumerweb-p3ndgjbtjg74yujc6ypyljnrzury13jl61kld9hu68.jpg",
             "categorys": []
         },
         {
@@ -86,9 +92,10 @@
             "birth_day": "1991-05-28",
             "marital": "married",
             "Departure Date": "2021-12-08T09:09:30.076886Z",
-            "Employee Type": "employee",
-            "department": 5,
-            "manager": 2,
+            "employee_type": "Training",
+            "department": "Phòng Dev",
+            "manager": "Duy Do",
+            "avatar": "https://images.squarespace-cdn.com/content/v1/5b5903c09d5abb3452315217/1591200700655-4MFZ7RQ8XUPUSXZ3PUNC/P1010064.jpg",
             "categorys": []
         } 
     ],
