@@ -2,7 +2,7 @@
     "employee": [
         {
             "id": 1,
-            "name": "Devland Scawen",
+            "name": "Pham Ngoc",
             "action": true,
             "email": "kmcmurraya2@infoseek.co.jp",
             "gander": "male",
@@ -12,7 +12,7 @@
             "employee_type": "Employee",
             "department": "Phòng kinh doanh",
             "manager": "Duy Do",
-            "avatar": "https://instagram.fhan14-2.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/265948095_328272912178797_262561445718293064_n.jpg?_nc_ht=instagram.fhan14-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=RkDk1gDHC7sAX-oBWuy&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT_WX5t_rdF6u7GcH1TblDB76GhQxIH_7ReECnSyMaMEcQ&oe=61BAC13B&_nc_sid=4f375e",
+            "avatar": "https://scontent.fhan14-2.fna.fbcdn.net/v/t1.18169-9/19260733_776207512589170_42037701922081791_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_ohc=OG3O41ZzOqQAX-KGEDS&_nc_ht=scontent.fhan14-2.fna&oh=48a9fed7356fd792b1213f23414d1a79&oe=61DB8B2B",
             "categorys": [
                 1
             ]
@@ -35,7 +35,7 @@
         },
         {
             "id": 3,
-            "name": "Axe Cuddon",
+            "name": "Thu Hiền",
             "action": true,
             "email": "acuddon3@dailymail.co.uk",
             "gander": "female",
@@ -45,7 +45,7 @@
             "employee_type": "Employee",
             "department": "Phòng Dev",
             "manager": "Duy Do",
-            "avatar": "https://instagram.fhan14-2.fna.fbcdn.net/v/t51.2885-15/e35/265572623_139779121748468_2562037986225932170_n.jpg?_nc_ht=instagram.fhan14-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=ACK5mXSKKPsAX8t57Vj&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT-IxPy6qSrcc7sbOTYzhSOKaf4ZD3fvScdh5kxXYWJ5Gg&oe=61BAAB97&_nc_sid=4f375e",
+            "avatar": "https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/143660361_1120602935058314_1584186325546863119_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=KW_kOxgRsZUAX-oupp2&_nc_ht=scontent.fhan14-1.fna&oh=606e896dba279c2264432465ad302217&oe=61D9C7AD",
             "categorys": [
                 1,
                 2
@@ -53,7 +53,7 @@
         },
         {
             "id": 4,
-            "name": "Jamill Crosio",
+            "name": "Thanh Tùng",
             "action": true,
             "email": "jcrosio5@apache.org",
             "gander": "male",
@@ -63,14 +63,14 @@
             "employee_type": "Employee",
             "department": "Phòng kế toán",
             "manager": "Duy Do",
-            "avatar": "https://images.squarespace-cdn.com/content/v1/5b5903c09d5abb3452315217/1567170575713-X92JKUWOG4XQADOJS9VA/P1010258_pp.jpg",
+            "avatar": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/240589775_2440215309456675_1246972859838922638_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=t1BUb33mp0MAX8h2sMS&_nc_ht=scontent.fhan14-2.fna&oh=00_AT9-ucMr5zKHuOoA9FqQANvjrOixtH3yS7GfOpz_sgEPKA&oe=61B8E60B",
             "categorys": [
                 1
             ]
         },
         {
             "id": 5,
-            "name": "Dmitri Campany",
+            "name": "Nam Trần",
             "action": true,
             "email": "dcampany9@nsw.gov.au",
             "gander": "female",
@@ -80,12 +80,12 @@
             "employee_type": "Training",
             "department": "Phòng kinh doanh",
             "manager": "Devland Scawen",
-            "avatar": "https://instagram.fhan14-2.fna.fbcdn.net/v/t51.2885-15/e35/126095331_932047500659916_3152386391389807935_n.jpg?_nc_ht=instagram.fhan14-2.fna.fbcdn.net&_nc_cat=100&_nc_ohc=QUrx9iY7YFEAX8x77vZ&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT_zpdEthlqa2zFcV-wOBWu4HlkojEsQ14ZmIfP-kvXE-Q&oe=61BA4F50&_nc_sid=4f375e",
+            "avatar": "https://scontent.fhan14-1.fna.fbcdn.net/v/t1.6435-9/49342262_1271859922983940_7360062967259332608_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=kJkVaR3I6ZIAX-SnzLd&_nc_ht=scontent.fhan14-1.fna&oh=27fb8c8a5b49aa5971cbb2bb3dab4b16&oe=61DA2885",
             "categorys": []
         },
         {
             "id": 6,
-            "name": "Dmitri Arenla",
+            "name": "Thảo Nhi",
             "action": true,
             "email": "Arenla@nsw.gov.au",
             "gander": "female",
@@ -95,7 +95,7 @@
             "employee_type": "Training",
             "department": "Phòng Dev",
             "manager": "Duy Do",
-            "avatar": "https://instagram.fhan14-2.fna.fbcdn.net/v/t51.2885-15/e35/127464474_664999780786751_8879494157338293345_n.jpg?_nc_ht=instagram.fhan14-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=upo86qCprEsAX9SoyIL&edm=AP_V10EBAAAA&ccb=7-4&oh=aaa0d734354119fcf26c611c577bf080&oe=61BB3A34&_nc_sid=4f375e",
+            "avatar": "https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/239985542_2946881505560015_49021452538117165_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Sx8JNGWdWMgAX_DuIL7&tn=rRVweslTNEccmSIM&_nc_ht=scontent.fhan14-2.fna&oh=00_AT9qPnc7WFODQ_5mRu9XF6CB-GtJVOt2UvqjLclSeQAEtQ&oe=61B9EFAF",
             "categorys": []
         } 
     ],
